@@ -1,0 +1,53 @@
+{aplicativo para consultar a biblia}
+
+datas
+
+1 de janeiro	Dia Mundial da Paz	Feriado Nacional
+6 de janeiro	Dia de Reis ou Epifania	Festa Religiosa Fixa
+
+
+efemérides
+1 de janeiro	Dia da Fraternidade Universal, Dia Mundial da Paz
+4 de janeiro	Dia do Alquimista
+6 de janeiro	Dia de Reis
+
+santos do dia (foto do santo)
+1 de janeiro	Maria Mãe de Deus, Martinho, Magno
+2 de janeiro 	Gregório
+3 de janeiro	Cirino
+
+Previsão
+Tipo Guia Astral
+1 de janeiro	1 de janeiro	O ano inicia om a Lua Nova, ou seja, um momento propício a novos começos, mas algum cuidado será necessário. Os aspectos tensos entre Plutão e o Sol podem gerar atitudes impensadas. Antes de tudo, é preciso treinar a paciência. Favorável para: Vênus e Lua.
+2 de janeiro 	2 de janeiro	Mercúrio e o Sol unidos no mesmo signo sugerem pragmatismo e capacidade de planejamento a longo e médio prazos, não desanime; evite gastos supérfluos para não se sobrecarregar mais tarde. Desfavorável para Marte e Urano.
+3 de janeiro	3 de janeiro	A Lua entra em Aquário e o bom aspecto de Marte vai favorecer iniciativas acertadas e ousadas; procure entrar em contato com pessoas criativas pois isso também vai estimular a sua liberdade intelectual e autoconfiável. Favorável para Urano e Lua.
+
+Tipo Astrológica por Signo pagina 119
+01 de janeiro de 2014	31 de janeiro de 2014	40 * 21 = 840 (caracteres)	[ascendente tem uma tabela abaixo]
+
+Tipo Chines por signo pagina 174 (os que tem POR levam a relacionamentos entre tabelas)
+01 de janeiro de 2014	31 de dezembro de 2014	70 * 16 = 1.120 (caracteres)
+
+
+Horoscopo - regencia planetaria pagina 46
+Lua	Rege as viagens; as mudanças teporárias; a água e os líquidos em geral, bem como seu respectivo comércio; o comércio varejista; os artigos de primeira necessidade; a pesca; os assuntos domésticos; a saúde; as comissões e o cotidiano.
+
+Horoscopo - signo ascendente pagina  78 - para descubrir o ascendente calcula na pagina 83 (pode levar a criar mais tabelas)
+Ascendente Aquário	Possuem uma característica física imprevisível e elétrica. São indivíduos espontâneos, criativos, sendo que para eles o espaço físico é fundamental, pois são amantes da liberdade, em todos os níveis. Têm geralmente uma natureza altruísta e humanitária, adoram experiências inovadoras, pois seu espírito é aberto e pouco disciplinado. Precisam muito do contato humano e ideias ligadas ao futuro e à evolução de todos, mas muitas vezes sentem-se solitários e incompreendidos com sua visão mais aberta e visionária do mundo. Têm sensibilidade nos olhos, os tornozelos são seu ponto fraco, assim como a parte circulatória. São tipos assimétricos, esbeltos e altos, as sobrancelhas podem ser afastadas, os olhos se sobressaem, são grandes e abertos. O cabelo em geral tem muita eletricidade, é cacheado ou cheios; os gestos podem ser abruptos e imprevisíveis.
+
+Horoscopo - chinês pagina 168
+Cão	1o de fevereiro de 1910	29 de janeiro de 1911	O Cão é magnânimo, nobre e leal. Muito responsável, gosta de analisar tudo antes de agir, é muito discreto e lúcido. Por outro lado, sua exagerada reserva natural o leva a perder oportunidades e sua introversão também não contribui para o sucesso. Bastante moralista, um pouco pessimista, por vezes é dotado de um otimismo mordaz. A hiprocrisia fera a alma do Cão.
+ 
+
+
+Horóscopo - signos caracteristicas pagina 118
+Aquário	21 de janeiro	19 de fevereiro	
+{incluir campo para CARATER, PROFISSÃO, AMOR, SAÚDE e REGIDO POR (pode ser outra tabela ou texto fixo)}
+CARÁTER	
+tamanho do texto 40 (linha) * 48 (total de linhas) = 1920 (caracteres)
+
+
+
+
+
+
